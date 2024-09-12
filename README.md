@@ -1,5 +1,5 @@
 # Aplica-o-upload-de-arquivos
-# Nome do Projeto
+# Gerenciador de Uploads FrontEnd
 
 Aplicação com hospedagem em nuvem a ser implementada por mim para upload de 
 arquivos e gerenciamento de download na nuvem
@@ -27,7 +27,7 @@ arquivos e gerenciamento de download na nuvem
 ### Passo a Passo para rodar o projeto
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/projeto-dio.git
+   https://github.com/Hidan404/Aplica-o-upload-de-arquivos.git
    ```
 2. Instale as dependências:
    ```bash
@@ -51,7 +51,7 @@ arquivos e gerenciamento de download na nuvem
 
 - [Documentação AWS S3](https://docs.aws.amazon.com/s3/)
 - [DIO - Curso como Entregar Desafios](https://www.dio.me/curso/como-entregar-desafios)
-- [GitHub DIO - Fork do projeto](https://github.com/expert-dio/projeto-original)
+  
 
 ## Autores
 - [Ronald](https://github.com/Hidan404)
